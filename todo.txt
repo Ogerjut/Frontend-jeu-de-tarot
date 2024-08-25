@@ -1,0 +1,22 @@
+
+- connection de plusieurs clients, gestion token logout
+
+- panel administrateur : 
+    ajouter retirer table, 
+    rejoindre table en spectateur (mod),
+    liste joueurs connectés,
+    envoyer messages/notifications aux joueurs
+    outils modération
+
+
+- infos box avec nombre utilisateurs
+
+- account : modifier password, email, stats, vérifier forme mdp/email....
+
+- websocket pour réseau à apprendre (socket.io)
+
+- component table une fois rejoindre est cliqué
+
+-gestion erreurs et message à afficher (toast)
+
+=> construire mon template petit à petit
